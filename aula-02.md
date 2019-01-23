@@ -1,8 +1,8 @@
 Schedule: 
 
 1. What Agile is?
- 1.1 In a personal level and real-world approach
- 1.2 In a textbook approach of practices and concepts for professional environment
+ + In a personal level and real-world approach
+ + In a textbook approach of practices and concepts for professional environment
 2. See Agile myths
 3. Popular agile methods (XP, Lean & Scrum)
 4. The three simple truths
