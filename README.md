@@ -8,6 +8,6 @@ Curso rápido em como se tornar um ninja em metodologias ágeis de desenvolvimen
 + Estimations will show you hot to size projects the right way and ignore conventional wisdom when it comes to sizing your project.
 + Planning shows you how to make plans you can believe, set expectations you can meet.
 + So long you will be taked through three slightly more advanced topics:  
-    + Iteration mechanics shows you what goes on behind the scenes to turn user stories into working software.  
-    + Communication plans will present you hot to set up the rhythm and ritual necessary for delivering great software.  
-    + Visible workplaces demonstrates how to take your physical environment and make it work for you. And the state of your project obvious.
+    + __Iteration__ mechanics shows you what goes on behind the scenes to turn user stories into working software.  
+    + __Communication plans__ will present you hot to set up the rhythm and ritual necessary for delivering great software.  
+    + __Visible workplaces__ demonstrates how to take your physical environment and make it work for you. And the state of your project obvious.
