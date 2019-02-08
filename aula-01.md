@@ -1,4 +1,4 @@
-The student profile:
+## The student profile:
 1. Should like to learn.  
 2. Should have a passion for delivery great software.  
 

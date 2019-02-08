@@ -1,4 +1,4 @@
-Schedule: 
+## Schedule: 
 
 1. What Agile is?  
     I. In a personal level and real-world approach  
