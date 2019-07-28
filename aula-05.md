@@ -1,7 +1,7 @@
 # Which method is right for me?
 The first thing to understanding is that is no one Agile method, they're many. Some grown popular like Scrum, but others has been run for a very long time like Lean. Let't take a look at three of the most popular nowadays, starting with Lean.
 
-## Lean
+## Lean - for improving
 Lean comes from Toyota's ultra efficient car manufacturing process.
 
 Now Lean is not an IT specific Agile method but it's concepts like eliminating waste, pool systems, and building people are very compatible with Agile and software.
@@ -18,7 +18,7 @@ It worths studying Lean, it haves a lot to offer, recommended reading
 > The Toyota way by Jeffrey K. Liker
 > Lean software development by Mary and Tom Poppendieck
 
-## Scrum
+## Scrum - for planning
 It is a project management wrapper. Can be used for non-IT specific projects.
 
 ##### Pros
@@ -33,7 +33,7 @@ It is a project management wrapper. Can be used for non-IT specific projects.
 
 Easiest to adapt. Most non-threatening.
 
-## Extreme Programming (XP)
+## Extreme Programming (XP) - for engineering
 
 This method offers continuous design in form of refactoring.
 Automated builds by mading unit tests, continuous integrations by running continuous builds, and insane notion that the tests should be written first before the software is developed, it's the oposite of conventional wisdown from the last 50 years.
