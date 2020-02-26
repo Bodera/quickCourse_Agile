@@ -18,17 +18,25 @@ Has this ever happened to you?
 
 Your project starts off beautifully. You've got a perfect team, the right technology, the perfect plan, and for the first few weeks of your project life couldn't be better.
 
+![Rainbow](https://media2.giphy.com/media/3o7btMotAhVnUOz2Mg/giphy.gif)
+
 Then, out of nowhere, __BAM!__. Your team changes, your lead developers gets pushed to another project of greater strategic importance. So you wonder "Ok, we still got time, we can handle this".
 
 Then, all of a sudden, __KAPOW!__. You realize you aren't going as fast as you'd thought. What you thought your team can do and what they can actually do are two completely different things.
 
+![Kapow](https://media2.giphy.com/media/OQoi8DNBapNCg/source.gif)
+
 Then, just about halfway through the project, __TILT!__. You realize your customer actually only now has discovered what they really want.
+
+![Tilt](https://media0.giphy.com/media/S8VzNsb9JGdb2/source.gif)
 
 That simple, easy to build, web app suddenly looks a lot more daunting and complex. Now it's virtually impossible with the remaining time and resources you've got.
 
 And then, the real bomb goes off, __BOOM__. You are running out of time. It turns out business needs your application sooner rather than later. And in the rush to meet the new deadline, testing gets cut, the team is asked to cancel their vacations, and when it finally comes time to *go live* it is of such poor quality that no one can use it.
 
 So it becomes another __late__, __over budget__, __failed__ IT project.
+
+![Loser](https://media1.giphy.com/media/TGMBfijgHh5FzsR1fT/giphy.gif)
 
 - - - -
 
