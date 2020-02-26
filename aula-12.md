@@ -4,7 +4,7 @@ In its simplest form, agile planning is really nothing more than measuring the s
 
 Our *to do list* on the agile project is called __the master story list__.
 
-[Project plan](./images/Project_plan.png)
+![Project plan](./images/Project_plan.png)
 
 It contains a list of all the features our customers would like to see in their software.
 
@@ -12,7 +12,7 @@ The speed at which we can turn user stories into working software is called __th
 
 The engine for getting things done is __the agile iteration__, commonly one to two week sprints of work, where we turn user stories into working production ready software.
 
-[Agile projection](./images/Agile_projection.png)
+![Agile projection](./images/Agile_projection.png)
 
 To give us a rough idea about delivery dates we take the total effort for the project, divided by our estimated team velocity, and then calculate how many iterations we think will be required to deliver our project.
 
@@ -26,7 +26,7 @@ Treating an initial plan as a hard commitment is what kills projects before they
 
 Now as we start delivering one of two things its going to happen. We are either going to discover that __A__ - we are going faster than expected, or __B__ - we are going slower than we originally thought.
 
-[Effort versus time](./images/Effort_versus_time.png)
+![Effort versus time](./images/Effort_versus_time.png)
 
 Faster than expected means you and your team are ahead of schedule. Slower than expected (which is more the norm) means you have too much to do and not enough time. And when faced with too much to do agile teams will do less, kind of like what you face when you have got a really busy long weekend.
 
