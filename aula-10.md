@@ -8,10 +8,8 @@ But by learning how to estimate in the agile way you will stop trying to get som
 This class will cover how we can estimate our user stories the agile way (point based on relative sizing system) as well some powerful group estimation techniques for sizing things up (triangulation and planning poker). Let's start taking a look at some of the problems we get with high-level estimates.
 
 <figure>
-  <img src="./images/Detailed_estimate.png" alt="Error loading this image.">	
-  <span style="text-align:center;">
-    <figcaption>Common yet odd sentences.</figcaption>
-  </span>
+  <img src="./images/Detailed_estimate.png" alt="Error loading this image.">
+  <figcaption style="text-align:center;">Common yet odd sentences.</figcaption>
 </figure>
 
 The information technology has had some challenges when it comes to setting expectations around estimates and software projects. Here is a quote before we get deeper in the definition of a point of estimation:
@@ -23,10 +21,8 @@ It's not that our estimates are necessarily wrong (although they most certainly 
 The book of [Steve McConnel](https://ptgmedia.pearsoncmg.com/images/9780735605350/samplepages/9780735605350.pdf) refers to this dysfunction as *The Cone of Uncertainty*, which reminds us that initial estimates can vary by as much as 400% at the initial stages of a project. (Jeez!)
 
 <figure>
-  <img src="Bad_estimates_brings_hard_commitments.png" alt="Error loading this image.">	
-  <span style="text-align:center;">
-    <figcaption>Think 4 times before affirm that something will happen.</figcaption>
-  </span>
+  <img src="images/Bad_estimates_brings_hard_commitments.png" alt="Error loading this image.">	
+  <figcaption>Think 4 times before affirm that something will happen.</figcaption>
 </figure>
 
 The simple fact is that accurate upfront estimates are not possible. They never were, so we need to stop pretending they are. The only question we should really be asking ourselves before we even attempt to do a software project is: Is this project even possible given the time and resources we've got? That's all.
@@ -114,7 +110,7 @@ These are the kinds of things we want to have in the back of the mind when we're
 Now you have something to compare for sizing the other stories.
 
 <figure>
-  <img src="Mikes_bike_emporium.png" alt="Error loading this image.">	
+  <img src="images/Mikes_bike_emporium.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>Mike's bike emporium.</figcaption>
   </span>
