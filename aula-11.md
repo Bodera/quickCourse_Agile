@@ -20,13 +20,13 @@ Your project starts off beautifully. You've got a perfect team, the right techno
 
 ![Rainbow](https://media2.giphy.com/media/3o7btMotAhVnUOz2Mg/giphy.gif)
 
-Then, out of nowhere, __BAM!__. Your team changes, your lead developers gets pushed to another project of greater strategic importance. So you wonder "Ok, we still got time, we can handle this".
+Then, out of nowhere, __BAM__! Your team changes, your lead developers gets pushed to another project of greater strategic importance. So you wonder "Ok, we still got time, we can handle this".
 
-Then, all of a sudden, __KAPOW!__. You realize you aren't going as fast as you'd thought. What you thought your team can do and what they can actually do are two completely different things.
+Then, all of a sudden, __KAPOW__! You realize you aren't going as fast as you'd thought. What you thought your team can do and what they can actually do are two completely different things.
 
 ![Kapow](https://media2.giphy.com/media/OQoi8DNBapNCg/source.gif)
 
-Then, just about halfway through the project, __TILT!__. You realize your customer actually only now has discovered what they really want.
+Then, just about halfway through the project, __TILT__! You realize your customer actually only now has discovered what they really want.
 
 ![Tilt](https://media0.giphy.com/media/S8VzNsb9JGdb2/source.gif)
 
