@@ -30,4 +30,4 @@ Now as we start delivering one of two things its going to happen. We are either 
 
 Faster than expected means you and your team are ahead of schedule. Slower than expected (which is more the norm) means you have too much to do and not enough time. And when faced with too much to do agile teams will do less, kind of like what you face when you have got a really busy long weekend.
 
-Instead of sticking to the original plan they change it, usually by reducing scope.
+Instead of sticking to the original plan they change it, usually by reducing scope (discover more on the next class).
