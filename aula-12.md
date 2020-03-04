@@ -215,4 +215,8 @@ If the customer decides to add scope to the project you can see instantly the im
 
 Burndown charts also tell the story behind the numbers. When something shows up on your burndown chart it can help us facilitate a conversation with our stakeholders around things that happens on our projects and the impact on decisions that get made.
 
-Project burndown charts are great because they just tell it like it is. This is our highly visible part of agile planning. This is our highly visible part of agile planning. We don't hide anything or sugar coat the facts by regularly reviewing the burndown chart with our customer. We can set expectations openly and honestly, and make sure everyone understands when we can expect it to be done.
+Project burndown charts are great because they just tell it like it is. This is our highly visible part of agile planning. This is our highly visible part of agile planning.
+
+[!How to visualize burndown chart](./images/How_to_visualize_burndown_chart.png)
+
+We don't hide anything or sugar coat the facts by regularly reviewing the burndown chart with our customer. We can set expectations openly and honestly, and make sure everyone understands when we can expect it to be done.
