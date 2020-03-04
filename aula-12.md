@@ -191,3 +191,28 @@ And that's basically how you create your agile plan. Now, before we go any furth
 ## The burndown chart
 
 Although we haven't formally introduced the burn down charts we've seen glimpses of it in our travels. It's the graph that shows how quickly we, as a team, are burning through our customers user stories and it tells us when we can expect to be done.
+
+[!The burndown chart](./images/Burndown_chart.png)
+
+On the y axis we track the amount of work remaining (days of effort or points). On the x axis we track time by iteration. Simply record the amount of work or points remaining each iteration and when plotted on the graph, the slope of the line is the team velocity, how much the team gets done each iteration.
+
+The burndown chart is a great vehicle for showing the state of your project. With nothing more than a glance you can tell the following:
+
+* How much work has been done.
+* How much work remains.
+* The team velocity.
+* Our expected completion date.
+
+Each column or iteration on the chart represents the amount of work remaining on the project. We are done when the column burns down to zero. Now in a perfect world our velocity would be constant, if started at 15 points gently descend from left to right and stay there for the duration of the project.
+
+In reality however our burndown charts usually look something a bit more like this:
+
+[!Real burndown chart](./images/Real_burndown_chart.png)
+
+Things don't always go according to plan, our team's velocity will fluctuate, new stories will get discovered, old ones get dropped. The burndown chart makes all of this visible.
+
+If the customer decides to add scope to the project you can see instantly the impact it will have on your delivery date. If the team is slowing down because they've lost a valuable team member that will also show up as a drop in velocity too.
+
+Burndown charts also tell the story behind the numbers. When something shows up on your burndown chart it can help us facilitate a conversation with our stakeholders around things that happens on our projects and the impact on decisions that get made.
+
+Project burndown charts are great because they just tell it like it is. This is our highly visible part of agile planning. This is our highly visible part of agile planning. We don't hide anything or sugar coat the facts by regularly reviewing the burndown chart with our customer. We can set expectations openly and honestly, and make sure everyone understands when we can expect it to be done.
