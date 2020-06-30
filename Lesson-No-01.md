@@ -1,8 +1,8 @@
 # Topics
 
-- [The agile samurai bootcamp](https://github.com/Bodera/quickCourse_Agile/blob/master/Lesson-No-1.md#the-agile-samurai-bootcamp)
-- [What is agile development](https://github.com/Bodera/quickCourse_Agile/blob/master/Lesson-No-1.md#agile-is)
-- [Course aims](https://github.com/Bodera/quickCourse_Agile/blob/master/Lesson-No-1.md#course-aims)
+- [The agile samurai bootcamp](https://github.com/Bodera/quickCourse_Agile/blob/master/Lesson-No-01.md#the-agile-samurai-bootcamp)
+- [What is agile development](https://github.com/Bodera/quickCourse_Agile/blob/master/Lesson-No-01.md#agile-is)
+- [Course aims](https://github.com/Bodera/quickCourse_Agile/blob/master/Lesson-No-01.md#course-aims)
 
 ## The agile samurai bootcamp
 
