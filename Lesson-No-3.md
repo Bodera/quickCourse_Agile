@@ -1,10 +1,10 @@
-# How agile is different from the traditional waterfall mode?
+# How agile is different from the traditional waterfall
 
 ## This is the first
-You will never done requirements in a Agile software project, just how you will never done tests or design. 
- 
+You will never done requirements in a Agile software project, just how you will never done tests or design.
+
 As long the customer has features they would like to see, and the budget delivering. These activities goes along of the project, they aren't phases. Thats is one big difference.
- 
+
 ## Iterativity
 The other is development iterative. Iterative means we start with something simple, almost trivial, and continuously adds to it through the project. This prevents us to have to get it right of front and to customers discover what they need as we go.
 
