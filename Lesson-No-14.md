@@ -14,7 +14,7 @@ and how the various meetings and sync points are set up to get all the moving pi
 
 All rigths let's begin. So we have the plan, we know why we're here, we're ready to execute. Now what?
 
-![Agile planning resume](./images/Agile_planning_resume.png)
+![Agile planning resume](./assets/images/Agile_planning_resume.png)
 
 How do we take an index card with a few words scribbled onto it and turn that into production ready working software?
 
@@ -24,7 +24,7 @@ Secondly, our development practices are going to need to be rock solid. We won't
 
 Third, our testing strategy is going to be in lockstep with development. We can't afford to wait until the end of the project to see whether everything works. We're going to have to maintain the health and integrity of our system from day one in the project.
 
-![Quick view on a good iteration](./images/Quick_view_on_a_good_iteration.png)
+![Quick view on a good iteration](./assets/images/Quick_view_on_a_good_iteration.png)
 
 But if we could do all three of these things we may just have a chance to produce something of value every week. And one great disciplined way to do that is to make use of the agile iteration.
 
@@ -32,7 +32,7 @@ But if we could do all three of these things we may just have a chance to produc
 
 So by now you probably have a pretty good idea of what an agile iteration looks like. It's that time boxed, one to two week period where we take our customers top stories and convert them into working software.
 
-![How an iteration looks like](./images/How_iteration_looks_like.png)
+![How an iteration looks like](./assets/images/How_iteration_looks_like.png)
 
 It's our engine for getting stuff done on the Agile project. The goal is to produce something of value every time we turn that cranck. That means whatever it takes to produce working, tested software, need to happen during an iteration.
 
@@ -40,4 +40,4 @@ Iteration also enable us to adjust course when necessary. If our priorities chan
 
 That's enough talk. The best way to see how an iteration works is to see one in action. Let's now take a user story and see what it takes to turn a user story into production ready, working software.
 
-![From user story to working software](https://github.com/Bodera/quickCourse_Agile/blob/main/images/User_story_to_working_software.png?raw=true)
+![From user story to working software](https://github.com/Bodera/quickCourse_Agile/blob/main/assets/images/User_story_to_working_software.png?raw=true)

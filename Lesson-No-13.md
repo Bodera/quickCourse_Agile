@@ -37,7 +37,7 @@ We like to call it as "The Way of the Spartan Warrior", which is based on a simp
 
 It works like this: take one or two really important features for your project, something core, that goes end-to-end through your entire architecture, and then measure how long it takes to build a stripped down, bare bones, minimalistic version of those features. Now you use that against remaining relatively size stories to see whether or not a minimalistic version of the application is even possible with the time and resources you've got.
 
-![The Way of the Spartan Warrior](./images/The_Spartan_warrior_way.png)
+![The Way of the Spartan Warrior](./assets/images/The_Spartan_warrior_way.png)
 
 If your dates are looking good, then right on, keep on truckin. But if your dates are looking bad, great! At least you know about it now :shipit:.
 
@@ -81,7 +81,7 @@ All right, there is one more puzzle for you, let's see how you handle this situa
 
 The highly regulated government project. This scenario is interesting, everything on this project was fixed. There was no ability to change the plan, it is a highly regulated government run utility, with a fixed scope, a fixed date, and of course a fixed budget. How could we possibly do this project agile?
 
-![The highly regulated government project](./images/The_highly_regulated_government_project.png)
+![The highly regulated government project](./assets/images/The_highly_regulated_government_project.png)
 
 In this particular case, there was created two master story lists: one reflecting the actual reality of the project anticipating the changes handling the new requirements and building exactly what the customer needed; and an other master story list, kind of an audit list, which contained and showed all the changes from the original plan.
 

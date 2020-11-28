@@ -20,7 +20,7 @@ The <span style="color:green;">first</span> element of a really good user story 
 Imagine you go to the restaurant and want what on the menu would really be an appetizer to your customer. Will they rather eat at Bernie's tech dinner? Where we have a whole bunch of technical explanations of how the software is gonna be built and you know the underlying pinions of architectural design.
 
 <figure>
-  <img src="./images/Ernies_tech_dinner.png" alt="Error loading this image.">	
+  <img src="./assets/images/Ernies_tech_dinner.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>Advanced technical features. Not displayed in a user friendly manner.</figcaption>
   </span>
@@ -29,7 +29,7 @@ Imagine you go to the restaurant and want what on the menu would really be an ap
 Or are they gonna prefer Sam's pancake house? Where they get things described in a language that they are used to, features they understand, things they can prioritize and see great value in.
 
 <figure>
-  <img src="./images/Sams_business_pnck_house.png" alt="Error loading this image.">	
+  <img src="./assets/images/Sams_business_pnck_house.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>Valuable and concise features. Displayed in a user friendly manner.</figcaption>
   </span>
@@ -42,7 +42,7 @@ That doesn't mean we can't use a connection pool and design patterns when buildi
 The <span style="color:green;">second</span> characteristic of a really good user story is one that __goes end-to-end__ where is we like to call it slicing through the entire architecture, or just slicing the cake.
 
 <figure>
-  <img src="./images/Architecture_without_value.png" alt="Error loading this image.">	
+  <img src="./assets/images/Architecture_without_value.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>A whole bunch of different documentation which offers no value.</figcaption>
   </span>
@@ -51,7 +51,7 @@ The <span style="color:green;">second</span> characteristic of a really good use
 Just like we wouldn't want a cake to be without icing our customers don't want half for third of a solution. That's what a good user story goes end-to-end through the entire architecture slicing through all the layers and deliver something that we can deploy, that works. Something of value. 
 
 <figure>
-  <img src="./images/Architecture_with_value.png" alt="Error loading this image.">	
+  <img src="./assets/images/Architecture_with_value.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>A collection of simple registers which offers value.</figcaption>
   </span>
@@ -74,7 +74,7 @@ The <span style="color:green;">fifth</span> characteristic of good user stories 
 Tests are great because we like to know when something is working. By writing tests around our user stories we give the development team [a stake in the ground](https://m.facebook.com/permalink.php?story_fbid=292785787454269&id=168683573197825) and a way of knowing when they're done.  
 
 <figure>
-  <img src="./images/Testable_user_story.png" alt="Error loading this image.">	
+  <img src="./assets/images/Testable_user_story.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>How to write testable user stories.</figcaption>
   </span>
@@ -158,7 +158,7 @@ Don't worry if they're not perfect, they never are. Just get used to grabbing th
 Now let's pretend our first past three days story list look something like this.
 
 <figure>
-  <img src="./images/Checking_credibility_of_user_stories.png" alt="Error loading this image.">	
+  <img src="./assets/images/Checking_credibility_of_user_stories.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>You must be short, clear and concise when writing user stories.</figcaption>
   </span>
@@ -199,7 +199,7 @@ The nice thing about the user story template is it answers three important quest
 The disadvantage of this that I don't really like about this template is I find it's not very useful when creating a master story lists. 
 
 <figure>
-  <img src="./images/Not_so_good_master_story.png" alt="Error loading this image.">	
+  <img src="./assets/images/Not_so_good_master_story.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>Bad practice.</figcaption>
   </span>
@@ -208,7 +208,7 @@ The disadvantage of this that I don't really like about this template is I find 
 By that I mean there's a lot of extra verbs in there. That makes it harder sometimes to parse and figure out what's going on. Some people like the extra context others find it to be a lot of noise. It's really up to you try both and see which you like, doesn't have to be one or the other for example you could use a nice short name add user for planning and they get on the back of the card write the longer template version for analysis later if that helps.
 
 <figure>
-  <img src="./images/A_better_master_story.png" alt="Error loading this image.">	
+  <img src="./assets/images/A_better_master_story.png" alt="Error loading this image.">	
   <span style="text-align:center;">
     <figcaption>Good practice.</figcaption>
   </span>

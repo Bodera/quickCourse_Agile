@@ -7,10 +7,7 @@ But by learning how to estimate in the agile way you will stop trying to get som
 
 This class will cover how we can estimate our user stories the agile way (point based on relative sizing system) as well some powerful group estimation techniques for sizing things up (triangulation and planning poker). Let's start taking a look at some of the problems we get with high-level estimates.
 
-<figure>
-  <img src="./images/Detailed_estimate.png" alt="Error loading this image.">
-  <figcaption style="text-align:center;">Common yet odd sentences.</figcaption>
-</figure>
+![Common yet odd sentences](./assets/images/Detailed_estimate.png)
 
 The information technology has had some challenges when it comes to setting expectations around estimates and software projects. Here is a quote before we get deeper in the definition of a point of estimation:
 
@@ -20,10 +17,8 @@ It's not that our estimates are necessarily wrong (although they most certainly 
 
 The book of [Steve McConnel](https://ptgmedia.pearsoncmg.com/images/9780735605350/samplepages/9780735605350.pdf) refers to this dysfunction as *The Cone of Uncertainty*, which reminds us that initial estimates can vary by as much as 400% at the initial stages of a project. (Jeez!)
 
-<figure>
-  <img src="images/Bad_estimates_brings_hard_commitments.png" alt="Error loading this image.">	
-  <figcaption>Think 4 times before affirm that something will happen.</figcaption>
-</figure>
+![Think 4 times before affirm that something will happen](./assets/images/Bad_estimates_brings_hard_commitments.png)
+
 
 The simple fact is that accurate upfront estimates are not possible. They never were, so we need to stop pretending they are. The only question we should really be asking ourselves before we even attempt to do a software project is: Is this project even possible given the time and resources we've got? That's all.
 
@@ -43,12 +38,7 @@ For that work we need two things:
 1. User stories that are sized relatively to each other
 2. A point based system to track overall progress.
 
-<figure>
-  <img src="https://image.slidesharecdn.com/agilerelativesizing-v2-160707194129/95/user-story-sizing-using-agile-relative-estimation-52-638.jpg?cb=1468249700" alt="Error loading this image.">	
-  <span style="text-align:center;">
-    <figcaption>Like this one.</figcaption>
-  </span>
-</figure>
+![Like this one](https://image.slidesharecdn.com/agilerelativesizing-v2-160707194129/95/user-story-sizing-using-agile-relative-estimation-52-638.jpg?cb=1468249700)
 
 Imagine you knew that it took about 10 seconds to eat one chocolate chip cookie right? And you were asked to estimate how long would take out of our pile of seven and even fourteen cookies. What would your guess be? In other words, if it takes 10 sec to eat one of these, how long should you take to eat seven or fourteen of these?
 
@@ -109,12 +99,7 @@ These are the kinds of things we want to have in the back of the mind when we're
 
 Now you have something to compare for sizing the other stories.
 
-<figure>
-  <img src="images/Mikes_bike_emporium.png" alt="Error loading this image.">	
-  <span style="text-align:center;">
-    <figcaption>Mike's bike emporium.</figcaption>
-  </span>
-</figure>
+![Mike's bike emporium](./assets/images/Mikes_bike_emporium.png)
 
 If you start building some stories and you find out you incorrectly sized a few, absolutely you should resize those outliers and give them a more realist number. But once you've got them properly sized, leave them alone. During the project you don't want to be continuously resizing your stories because every time you do you have to recalibrate your team velocity, a topic for we study later on the course.
 

@@ -4,7 +4,7 @@ In its simplest form, agile planning is really nothing more than measuring the s
 
 Our *to do list* on the agile project is called __the master story list__.
 
-![Project plan](./images/Project_plan.png)
+![Project plan](./assets/images/Project_plan.png)
 
 It contains a list of all the features our customers would like to see in their software.
 
@@ -12,7 +12,7 @@ The speed at which we can turn user stories into working software is called __th
 
 The engine for getting things done is __the agile iteration__, commonly one to two week sprints of work, where we turn user stories into working production ready software.
 
-![Agile projection](./images/Agile_projection.png)
+![Agile projection](./assets/images/Agile_projection.png)
 
 To give us a rough idea about delivery dates we take the total effort for the project, divided by our estimated team velocity, and then calculate how many iterations we think will be required to deliver our project.
 
@@ -26,7 +26,7 @@ Treating an initial plan as a hard commitment is what kills projects before they
 
 Now as we start delivering one of two things its going to happen. We are either going to discover that __A__ - we are going faster than expected, or __B__ - we are going slower than we originally thought.
 
-![Effort versus time](./images/Effort_versus_time.png)
+![Effort versus time](./assets/images/Effort_versus_time.png)
 
 Faster than expected means you and your team are ahead of schedule. Slower than expected (which is more the norm) means you have too much to do and not enough time. And when faced with too much to do agile teams will do less, kind of like what you face when you have got a really busy long weekend.
 
@@ -76,7 +76,7 @@ Creating your first agile plan is not so different from preparing for a busy wee
 
 #### The master story list
 
-![Master story list abstract](./images/Master_story_list_abstract.png)
+![Master story list abstract](./assets/images/Master_story_list_abstract.png)
 
 The master story list is a collection of user stories or __features__ that your customer want to see in their software. It's prioritized by the customers, it's estimated by the team and it forms the basis of the project plan.
 
@@ -133,7 +133,7 @@ By connecting the dots early and end to end, you can eliminate many risks and ga
 
 #### How fast you can go
 
-[!Guessing team velocity tricks](./images/Guessing_velocity_tricks.png)
+![Guessing team velocity tricks](./assets/images/Guessing_velocity_tricks.png)
 
 With our list of prioritized tasks in hand, we're almost ready to start talking about dates. But before we can do that we need to guess how fast you and your team can go.
 
@@ -147,7 +147,7 @@ Now in the beginning of your project your velocity is going to fluctuate so don'
 
 There are no hard and fast rules in how to estimate your team's velocity. Ask your team what they think they can get done per iteration and be sure to take things into account like customer availability  and whether your team is co-located.
 
-[!Velocity behavior](./images/Velocity_behavior.png)
+![Velocity behavior](./assets/images/Velocity_behavior.png)
 
 Also remind the team of what the definition of `done` is. And that delivering a story in agile involves: analysis, testing, design, and coding. The whole thing!
 
@@ -168,7 +168,7 @@ You have two options for setting expectations around dates:
 
 Delivery by date is about drawing a line in the sand and saying - *"We're going to ship product on this date no matter what"*.
 
-[!Delivering by date](./images/Delivering_by_date.png)
+![Delivering by date](./assets/images/Delivering_by_date.png)
 
 When new important user stories are discovered that older less important ones of equal size have to get off. It forces the tough decision and trade-offs upfront around things such as scope, while creating just enough urgency to let everyone know we got to get going.
 
@@ -176,7 +176,7 @@ If you can be flexible about the date and are more concerned about a core set of
 
 This is about picking a core set of features and working on them until they're __all done__.
 
-[!Delivering by feature set](./images/Delivering_by_feature_set.png)
+![Delivering by feature set](./assets/images/Delivering_by_feature_set.png)
 
 Being flexible about scope is still a part of the equation as you're still going to want to discover new features along the way. But the spirit here is that is only a few big rocks you and your team need to deliver. And if you're prepared to be a bit more flexible around the date to make those core features happen, you can ship like that too.
 
@@ -192,7 +192,7 @@ And that's basically how you create your agile plan. Now, before we go any furth
 
 Although we haven't formally introduced the burn down charts we've seen glimpses of it in our travels. It's the graph that shows how quickly we, as a team, are burning through our customers user stories and it tells us when we can expect to be done.
 
-[!The burndown chart](./images/Burndown_chart.png)
+![The burndown chart](./assets/images/Burndown_chart.png)
 
 On the y axis we track the amount of work remaining (days of effort or points). On the x axis we track time by iteration. Simply record the amount of work or points remaining each iteration and when plotted on the graph, the slope of the line is the team velocity, how much the team gets done each iteration.
 
@@ -207,7 +207,7 @@ Each column or iteration on the chart represents the amount of work remaining on
 
 In reality however our burndown charts usually look something a bit more like this:
 
-[!Real burndown chart](./images/Real_burndown_chart.png)
+![Real burndown chart](./assets/images/Real_burndown_chart.png)
 
 Things don't always go according to plan, our team's velocity will fluctuate, new stories will get discovered, old ones get dropped. The burndown chart makes all of this visible.
 
@@ -217,6 +217,6 @@ Burndown charts also tell the story behind the numbers. When something shows up 
 
 Project burndown charts are great because they just tell it like it is. This is our highly visible part of agile planning. This is our highly visible part of agile planning.
 
-[!How to visualize burndown chart](./images/How_to_visualize_burndown_chart.png)
+![How to visualize burndown chart](./assets/images/How_to_visualize_burndown_chart.png)
 
 We don't hide anything or sugar coat the facts by regularly reviewing the burndown chart with our customer. We can set expectations openly and honestly, and make sure everyone understands when we can expect it to be done.
