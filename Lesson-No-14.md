@@ -40,4 +40,4 @@ Iteration also enable us to adjust course when necessary. If our priorities chan
 
 That's enough talk. The best way to see how an iteration works is to see one in action. Let's now take a user story and see what it takes to turn a user story into production ready, working software.
 
-![From user story to working software](./images/User_story_to_working_software.png)
+![From user story to working software](https://github.com/Bodera/quickCourse_Agile/blob/main/images/User_story_to_working_software.png?raw=true)
