@@ -1,10 +1,10 @@
-## The planning dojo
+# The planning dojo
 
 Be proud of yourself, you now know the basics of how agile planning works and how to make your very first agile plan.
 
-With the heavy lifting done, and theory out of the way, let's put some of this theory into practice in our dojo by revisiting four challenges we face at the beginning of our last class and then see how we would handle them with our new agile plan.
+With the heavy lifting done, and theory out of the way, let's put some of this theory into practice in our dojo by revisiting four challenges we face at the beginning of our course and then see how we would handle them with our new agile plan.
 
-#### Scenario #1
+## Scenario #1
 
 > Your customer discovers some new requirements.
 
@@ -13,7 +13,7 @@ When your customer finds out what they would really like to see in their softwar
 * You can push the release date (which is like asking for more money).
 * Or you can drop the last important stories (flexing in scope, what is most preferred).
 
-Don't let emotions fill up your head when having this conversation. Keep in mind that it isn't up to you. You're simply the vessel for communicating that which is and what can be, totally impartial towards the outcome.
+Don't get emotional when you have this conversation, it's not your call to make, you were simply the vessel for communicating that which is and can be completely impartial towards the outcome.
 
 It's also your responsabilities is to make them aware of the impact of their decisions and give them the fully information necessary to make a well-informed decision.
 
@@ -21,7 +21,7 @@ If your customer really wants it all, then create a *nice to have list* :clipboa
 
 Pretty easy hun? No surprises till now. Let's move on.
 
-#### Scenario #2
+## Scenario #2
 
 > You are going slower than you hoped.
 
@@ -47,7 +47,7 @@ And with this information you and your customer can now have a real discussion a
 
 Then, you can adjust your project plans, offering the best possible return, while working based on project averages.
 
-#### Scenario #3
+## Scenario #3
 
 > You lose a valuable team member.
 
@@ -59,7 +59,7 @@ Of course your manager may turn to you and say that the new person you're gettin
 
 The new person may not fit in, or they may have bluffed their way through the interview process with a great resume and a firm handshake. Believe it when you see it. Until then be skeptical and set expectations accordingly.
 
-#### Scenario #4
+## Scenario #4
 
 > You run out of time.
 
@@ -75,7 +75,7 @@ And this collaboration thing it needs to be two way. Just be open and honest and
 
 All right, there is one more puzzle for you, let's see how you handle this situation.
 
-#### Scenario #5
+## Scenario #5
 
 > Everything is fixed.
 
