@@ -1,6 +1,6 @@
 # Iteration mechanics
 
-Welcome back to another lesson on the Agile Bootcamp. In this section __Iteration Mechanics__ we will start taking our good plans, and turn all those good intentions into something our customers can use: __working software__.
+Now we will start taking our good plans, and turn all those good intentions into something our customers can use: __working software__.
 
 We gonna take a look behind the scenes to discover how agile projects actually get things done through the power of the iteration. After that we're going to go into creating a
 
